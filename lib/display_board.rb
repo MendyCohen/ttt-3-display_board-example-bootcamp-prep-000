@@ -6,4 +6,5 @@ puts "A Tic Tac Toe Board"
  print "   "
  print "|"
  print "   "
+ puts "-----------"
 end                
