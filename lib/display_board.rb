@@ -3,4 +3,7 @@
 puts "A Tic Tac Toe Board"
  print "   " "|" "   " "|" "   " 
  puts "-----------"
+ print "   " "|" "   " "|" "   " 
+ puts "-----------"
+ print "   " "|" "   " "|" "   " 
 end                
