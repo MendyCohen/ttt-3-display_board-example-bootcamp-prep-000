@@ -8,9 +8,3 @@
  end                
  
  
-# def display_board 
-#  puts "A Tic Tac Toe Board"
-#   3.times{puts "   " "|" "   " "|" "   "}
-#  2.times{puts "-----------"}
-  
-# end
